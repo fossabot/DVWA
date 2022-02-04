@@ -1,4 +1,6 @@
 # DAMN VULNERABLE WEB APPLICATION
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2FDVWA.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2FDVWA?ref=badge_shield)
+
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
@@ -34,6 +36,9 @@ You should have received a copy of the GNU General Public License
 along with Damn Vulnerable Web Application (DVWA).  If not, see <https://www.gnu.org/licenses/>.
 
 - - -
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2FDVWA.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsatoshiav0cad0%2FDVWA?ref=badge_large)
 
 ## Internationalisation
 
